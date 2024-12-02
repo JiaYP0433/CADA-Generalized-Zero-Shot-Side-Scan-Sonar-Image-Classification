@@ -166,7 +166,7 @@ def main():
     for p in style_model.parameters():
         p.requires_grad = False
 
-    style_size = 224 if args.model_transfer in ['stytr'] else 512 if args.model_transfer in ['asepa'] else 256
+    style_size = 224 if args.model_transfer in ['stytr', 'gcea'] else 512 if args.model_transfer in ['asepa'] else 256
     transform_train_s1 = [
         SCL(args.img_size, interpolation=transforms.InterpolationMode.BILINEAR),
         transforms.Compose([
