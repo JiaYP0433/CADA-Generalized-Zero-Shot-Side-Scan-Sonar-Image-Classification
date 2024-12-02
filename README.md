@@ -9,3 +9,5 @@ This code is tested under Ubuntu 18.04 or Windows11+anaconda23.1.0. The total pr
 * tensorboardX >= 2.6
 * other packages under python-3.9
 
+### Acknowledgments
+The code is based on project [PhotoWCT](https://github.com/svjack/PhotoWCT), [LiWCT](https://github.com/guizilaile23/ZSL-SSS), [StyTr](https://github.com/diyiiyiii/StyTR-2) and [CCPL](https://github.com/JarrentWu1031/CCPL). We sincerely thank them for their great work.
