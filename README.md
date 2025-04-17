@@ -5,7 +5,7 @@ Predicting never-seen-before targets in underwater side-scan sonar (SSS) recogni
 
 Official implementation of the paper "[Contrastive Adaptation on Domain Augmentation for Generalized Zero-Shot Side-Scan Sonar Image Classification](https://ieeexplore.ieee.org/abstract/document/10925503)".
 
-# How to install datasets
+### How to install datasets
 
 
 ### Requirements
