@@ -94,7 +94,7 @@ class SCL(nn.Module):
 
 
 class SSSg(DatasetBase):
-    def __init__(self, folder='datasets/data', num_shots=0):
+    def __init__(self, folder='datasets/gzsss_data', num_shots=0):
         self.train_dir = os.path.join(folder, 'train')
         self.test_dir = os.path.join(folder, 'test')
         text_file = os.path.join(folder, "classnames.txt")
