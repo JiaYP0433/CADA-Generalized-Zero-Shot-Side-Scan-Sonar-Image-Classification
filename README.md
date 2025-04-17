@@ -37,5 +37,17 @@ This code is tested under Ubuntu 18.04 or Windows11+anaconda23.1.0. The total pr
 * tensorboardX >= 2.6
 * other packages under python-3.9
 
+## Citation
+If you use our work, please consider citing:
+```bibtex
+@article{jia2025contrastive,
+  title={Contrastive Adaptation on Domain Augmentation for Generalized Zero-Shot Side-Scan Sonar Image Classification},
+  author={Jia, Yunpeng and Ye, Xiufen and Li, Peng and Guo, Shuxiang},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
 ### Acknowledgments
 The code is based on project [PhotoWCT](https://github.com/svjack/PhotoWCT), [LiWCT](https://github.com/guizilaile23/ZSL-SSS), [StyTr](https://github.com/diyiiyiii/StyTR-2) and [CCPL](https://github.com/JarrentWu1031/CCPL). [GCEA](https://github.com/baizhongyu/GCEANet) We sincerely thank them for their great work.
