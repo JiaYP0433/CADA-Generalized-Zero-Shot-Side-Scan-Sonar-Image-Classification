@@ -20,7 +20,7 @@
 Official implementation of the paper "[Contrastive Adaptation on Domain Augmentation for Generalized Zero-Shot Side-Scan Sonar Image Classification](https://ieeexplore.ieee.org/abstract/document/10925503)".
 
 ### How to install datasets
-- Download the dataset from the [official website](https://drive.google.com/file/d/1OJ-co80Htd3kuVmmccFZMUKyzQ0m5hsu/view?usp=sharing) or [official website2](https://pan.baidu.com/s/1cR37T3xdU-i47gajs3rtGg) (提取码: w55w), and extract the training and testing sets. The directory structure should look like
+- Download the dataset from the [official website](https://drive.google.com/file/d/1OJ-co80Htd3kuVmmccFZMUKyzQ0m5hsu/view?usp=sharing) or [official website2](https://pan.baidu.com/s/1xITfuyyUdZhRS0qdVUG0Lw), and extract the training and testing sets. The directory structure should look like
 ```
 datasets/
 |–– gzsss_data/
