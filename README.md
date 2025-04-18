@@ -1,4 +1,4 @@
-# CADA Contrastive Adaptation on Domain Augmentation for Generalized Zero-Shot Side-Scan Sonar Image Classification [IEEE-T-IM 2025]
+# CADA Generalized Zero-Shot Side-Scan Sonar Image Classification [IEEE-T-IM 2025]
 
 ## Highlights
 ![main figure](main_figure.png)
